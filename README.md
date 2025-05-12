@@ -53,4 +53,4 @@ The source code is hosted inside the [lib folder](https://github.com/hvlkk/Guide
 
 - [kwstaseL](https://github.com/kwstaseL)
 - [Ippo03](https://github.com/Ippo03)
-- [hvlkk](https://github.com/hvlkk)
+- [GChalkidis](https://github.com/GChalkidis)
